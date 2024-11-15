@@ -3,11 +3,11 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID","13404637"))
-API_HASH = getenv("API_HASH","a069bf02806468fe18427ab6b9a3bb6c")
+API_ID = int(getenv("API_ID","24621592"))
+API_HASH = getenv("API_HASH","f8316a8865477f009ab53b7126eb52c3")
 
-BOT_TOKEN = getenv("BOT_TOKEN","7158045860:AAFK9c1BRAQd2fM2Zyctbiz4y-iDFMVe8Rc")
-OWNER_ID = int(getenv("OWNER_ID","6283192619"))
+BOT_TOKEN = getenv("BOT_TOKEN","7716837295:AAFieaeRlXsB2aZqdFEZfP5PyIJjNt8OY1c")
+OWNER_ID = int(getenv("OWNER_ID","7931228880"))
 
 MONGO_DB_URI = getenv("MONGO_DB_URI","mongodb+srv://DxLEGEND143:DxLEGEND143@dxlegend.oztipqk.mongodb.net/?retryWrites=true&w=majority&appName=DxLEGEND")
-MUST_JOIN = getenv("MUST_JOIN","KSD_BOT_NETWORK")
+MUST_JOIN = getenv("MUST_JOIN","anya_music_sport_group")
