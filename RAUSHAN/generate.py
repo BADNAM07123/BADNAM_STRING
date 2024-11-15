@@ -51,7 +51,7 @@ buttons_ques = [
 
 gen_button = [
     [
-        InlineKeyboardButton(text="❃𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄 𝐒𝐄𝐒𝐒𝐈𝐎𝐍❃", callback_data="generate")
+        InlineKeyboardButton(text="𝐆ᴇɴʀᴀᴛᴇ 𝐒ᴇssɪᴏɴ", callback_data="generate")
     ]
 ]
 
