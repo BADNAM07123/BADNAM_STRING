@@ -27,12 +27,12 @@ async def start(bot: Client, msg: Message):
                     InlineKeyboardButton(text="▪ ɢᴇɴᴇʀᴀᴛᴇ sᴛʀɪɴɢ ▪️", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("🔸 sᴜᴘᴘᴏʀᴛ🔸", url="https://t.me/TEAM_RIYA_SUPPORT"),
-                    InlineKeyboardButton("▫️ ᴜᴘᴅᴀᴛᴇs▫️", url="https://t.me/KSD_BOT_NETWORK")
+                    InlineKeyboardButton("🔸 sᴜᴘᴘᴏʀᴛ🔸", url="https://t.me/TEAM_KRITI_SUPPORT"),
+                    InlineKeyboardButton("▫️ ᴜᴘᴅᴀᴛᴇs▫️", url="https://t.me/TEAM_KRITI_SUPPORT")
                 ],
                 [
-                    InlineKeyboardButton("🔸 Aᴅᴅ Mᴇ Bᴀʙʏ 🔸", url="https://t.me/Olivia_xmusic_bot?startgroup=true"),
-                    InlineKeyboardButton("▫️ᴍᴜsɪᴄ ʙᴏᴛ▫️", url="https://t.me/Olivia_xmusic_bot")
+                    InlineKeyboardButton("🔸 Aᴅᴅ Mᴇ Bᴀʙʏ 🔸", url="https://t.me/Kushi_music_bot?startgroup=true"),
+                    InlineKeyboardButton("▫️ᴍᴜsɪᴄ ʙᴏᴛ▫️", url="https://t.me/Kushi_music_bot")
                 ]                
             ]
         )
